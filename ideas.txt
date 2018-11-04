@@ -2,3 +2,5 @@
 2.time control -- rely on new module
 3.one-time black box from quantum circuit
 4.reuseable gc
+5.memory hard merkel puzzle
+6.multi party network server
