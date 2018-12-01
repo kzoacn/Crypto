@@ -4,3 +4,4 @@
 4.reuseable gc
 5.memory hard merkel puzzle
 6.multi party network server
+7.local private server
