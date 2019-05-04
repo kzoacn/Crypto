@@ -7,3 +7,5 @@
 7.local private server
 8.Ring-GC
 9.constant depth quantum circuit
+10.sig on image by fft
+11. merkel puzzle for fhe, timing ensure
