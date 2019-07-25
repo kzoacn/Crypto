@@ -9,3 +9,5 @@
 9.constant depth quantum circuit
 10.sig on image by fft
 11. merkel puzzle for fhe, timing ensure
+12. (t,n) -> graph connective ???
+13. distributed algorithm -> mpc ?
